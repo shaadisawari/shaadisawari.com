@@ -1,0 +1,205 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- WEBSITE NAME -->
+<title>ShaadiSawari.com | Luxury Wedding Cars in Faridabad NCR</title>
+
+<!-- SEO -->
+<meta name="description" content="ShaadiSawari.com - Luxury Wedding Car Booking in Faridabad, Delhi NCR. Audi, Mercedes, Fortuner & more available for weddings and functions.">
+
+<style>
+
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:#f5f5f5;
+}
+
+header{
+background:#000;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+.logo{
+font-size:28px;
+font-weight:bold;
+color:#FFD700;
+}
+
+nav{
+background:#111;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+background:url("https://images.unsplash.com/photo-1511919884226-fd3cad34687c") center/cover;
+color:white;
+text-align:center;
+padding:80px 20px;
+}
+
+.btn{
+display:inline-block;
+margin:10px;
+padding:15px 25px;
+border-radius:5px;
+text-decoration:none;
+color:white;
+font-size:18px;
+}
+
+.call{ background:#28a745; }
+.whatsapp{ background:#25D366; }
+
+.section{
+padding:40px 20px;
+text-align:center;
+}
+
+.cars{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+}
+
+.car{
+background:white;
+padding:20px;
+width:220px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+form{
+max-width:400px;
+margin:auto;
+display:flex;
+flex-direction:column;
+gap:10px;
+}
+
+input, textarea{
+padding:12px;
+font-size:16px;
+}
+
+button{
+background:black;
+color:white;
+padding:12px;
+border:none;
+cursor:pointer;
+}
+
+footer{
+background:black;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="logo">🚘 ShaadiSawari.com</div>
+<p>Luxury Wedding & Function Car Booking | Faridabad NCR</p>
+</header>
+
+<nav>
+<a href="#cars">Cars</a>
+<a href="#services">Services</a>
+<a href="#booking">Booking</a>
+<a href="#location">Location</a>
+</nav>
+
+<div class="hero">
+<h1>Make Your Wedding Entry Royal</h1>
+<p>Audi • Mercedes • Jaguar • Fortuner & More</p>
+
+<a class="btn call" href="tel:+919654565819">📞 Call Now</a>
+
+<a class="btn whatsapp"
+href="https://wa.me/919654565819?text=Hello%20I%20want%20to%20book%20a%20car%20from%20ShaadiSawari.com">
+💬 WhatsApp Booking</a>
+
+</div>
+
+<div class="section" id="cars">
+<h2>Our Luxury Cars</h2>
+
+<div class="cars">
+<div class="car">Audi</div>
+<div class="car">Fortuner</div>
+<div class="car">Scorpio</div>
+<div class="car">Ertiga</div>
+<div class="car">Jaguar</div>
+<div class="car">Mercedes</div>
+<div class="car">Eco</div>
+</div>
+</div>
+
+<div class="section" id="services">
+<h2>Our Services</h2>
+<p>✔ Wedding Car Booking</p>
+<p>✔ Baraat Entry Cars</p>
+<p>✔ Engagement & Party Functions</p>
+<p>✔ VIP & Luxury Travel</p>
+<p>✔ Available in Faridabad & Delhi NCR</p>
+</div>
+
+<div class="section" id="booking">
+<h2>Quick Booking Request</h2>
+
+<form>
+<input type="text" placeholder="Your Name" required>
+<input type="tel" placeholder="Phone Number" required>
+<input type="date" required>
+<textarea placeholder="Car & Function Details"></textarea>
+<button type="submit">Send Booking Request</button>
+</form>
+
+</div>
+
+<div class="section" id="location">
+<h2>Our Location</h2>
+<p>Sunper, Ballabgarh, Faridabad, Haryana 121004</p>
+
+<iframe
+width="100%"
+height="300"
+style="border:0"
+loading="lazy"
+src="https://maps.google.com/maps?q=Ballabgarh%20Faridabad&t=&z=13&ie=UTF8&iwloc=&output=embed">
+</iframe>
+
+</div>
+
+<footer>
+<p>© 2026 ShaadiSawari.com</p>
+<p>📞 +91 96545 65819 (Call & WhatsApp)</p>
+<p>Serving Faridabad | Delhi NCR</p>
+</footer>
+
+</body>
+</html>
